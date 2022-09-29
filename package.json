@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/amberlovescats14/nodeJSWtoken#readme",
   "dependencies": {
-    "@hapi/joi": "^15.1.0",
+    "@hapi/joi": "^15.1.1",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
